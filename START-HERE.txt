@@ -1,0 +1,24 @@
+WELCOME TO BLAZOR STUDIO
+Private preview 1.0.1 - Windows x64
+
+Start with Blazor-Studio-Your-First-Hour.pdf. It walks you through setup,
+editing a website, moving controls, writing a small C# action and running it.
+
+1. Install the .NET 10 Windows x64 SDK and WebView2 Evergreen Runtime if needed.
+2. Install BlazorStudio-1.0.1-preview-x64.msi, then open Blazor Studio from Start.
+3. Copy Examples to a writable practice folder and follow the PDF.
+
+Examples:
+- NorthstarWorkshop/NorthstarWorkshop.csproj: a polished three-page website.
+- FirstPage/StudioStock.slnx: a small page with a working C# button.
+
+The examples use an http launch profile. No database or login is required.
+Keep an untouched copy so you can restart an exercise whenever you like.
+
+This MSI is unsigned. The developer is still arranging trusted signing.
+Windows may display an unknown-publisher or reputation warning. Check with the
+sender or your administrator if it is blocked; do not disable protection.
+Clean-machine install/upgrade coverage is incomplete. This is a private preview.
+
+SDK: https://dotnet.microsoft.com/en-us/download/dotnet/10.0
+WebView2: https://developer.microsoft.com/en-us/microsoft-edge/webview2/

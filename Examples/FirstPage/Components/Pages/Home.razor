@@ -1,0 +1,16 @@
+@page "/"
+@namespace StudioStock.Components.Pages
+
+<section class="stock-page">
+    <header class="stock-header">
+        <span class="eyebrow">Lesson 1 · My first page</span>
+        <h1>My stock desk</h1>
+        <p>A small page built and tested from Blazor Studio.</p>
+    </header>
+    <div class="stock-panel">
+        <h2>Check your first button</h2>
+        <p>Click the button in Preview to run its C# method.</p>
+        <button @onclick="CheckStock">Check stock</button>
+        <p role="status">@message</p>
+    </div>
+</section>

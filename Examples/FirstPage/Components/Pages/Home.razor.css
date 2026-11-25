@@ -1,0 +1,6 @@
+.stock-page { display:flex; flex-direction:column; height:100%; min-height:0; gap:16px; }
+.stock-header { border-left:3px solid #f59e0b; padding-left:16px; }
+.stock-header h1 { margin:4px 0; font-size:26px; }
+.stock-header p { color:#64748b; margin:6px 0; }
+.stock-panel { background:white; border:1px solid #dde3eb; border-radius:8px; padding:22px; overflow:auto; }
+.stock-panel h2 { margin-top:0; font-size:18px; }

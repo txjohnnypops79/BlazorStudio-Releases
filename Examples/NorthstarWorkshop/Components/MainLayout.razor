@@ -1,0 +1,20 @@
+@inherits LayoutComponentBase
+
+<div class="site-shell">
+    <aside class="site-sidebar">
+        <a class="site-brand" href="/" aria-label="Northstar Workshop home"><span class="brand-mark">N</span><span>NORTHSTAR<small>WORKSHOP &amp; CO.</small></span></a>
+        <span class="nav-label">THE WORKSHOP</span>
+        <nav aria-label="Main navigation">
+            <a class="overview-link" href="/"><span aria-hidden="true">01</span> Overview</a>
+            <a class="services-link" href="/services"><span aria-hidden="true">02</span> Our services</a>
+            <a class="contact-link" href="/contact"><span aria-hidden="true">03</span> Get in touch</a>
+        </nav>
+        <div class="sidebar-note"><span class="status-dot"></span> Independent by design<p>A small studio for thoughtful spaces and useful things.</p></div>
+        <small class="sample-label">BLAZOR STUDIO · SAMPLE WEBSITE</small>
+    </aside>
+    <div class="site-main">
+        <header class="site-header"><span>Design. Make. Refine.</span><span class="header-note">GOOD WORK STARTS WITH A CONVERSATION</span></header>
+        <main class="site-content" id="main-content">@Body</main>
+        <footer class="site-footer"><span>Northstar Workshop · Fictional demonstration business</span><span>Built with Blazor Studio</span></footer>
+    </div>
+</div>
