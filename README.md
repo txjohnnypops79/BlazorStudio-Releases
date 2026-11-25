@@ -59,7 +59,51 @@ The latest preview is available on the GitHub Releases page.
 
 ## Screenshots
 
-Application screenshots and development demonstrations will be published here as the project progresses.
+### Visual Designer
+Design Blazor pages using a visual drag-and-drop interface.
+
+![Visual Designer](screenshots/01-designer.png)
+
+### Code Editor
+Work directly with C# and Razor code.
+
+![Code Editor](screenshots/02-code-editor.png)
+
+### Live Preview
+Preview your application during development.
+
+![Live Preview](screenshots/03-live-preview.png)
+
+### Project Creation
+
+![Project Creation](screenshots/04-project-creation.png)
+
+### Property Editor
+
+![Property Editor](screenshots/05-properties.png)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/01-designer.png" width="100%" />
+      <b>Visual Designer</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/02-code-editor.png" width="100%" />
+      <b>Code Editor</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/03-live-preview.png" width="100%" />
+      <b>Live Preview</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/04-project-creation.png" width="100%" />
+      <b>Project Creation</b>
+    </td>
+  </tr>
+</table>
 
 ## Documentation
 
