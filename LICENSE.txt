@@ -1,0 +1,53 @@
+BLAZOR STUDIO
+PREVIEW SOFTWARE LICENSE
+
+Copyright (c) 2026 Blazor Studio Developer.
+All rights reserved.
+
+1. LICENSE GRANT
+
+Permission is granted to install and use the Blazor Studio preview software at no cost for evaluation, testing, learning, and providing feedback.
+
+2. OWNERSHIP
+
+Blazor Studio and its underlying source code, design, and proprietary components remain the intellectual property of their respective owners.
+
+This license does not transfer ownership of the software.
+
+3. RESTRICTIONS
+
+Except where permitted by applicable law or expressly authorized in writing, users may not:
+
+- Sell or sublicense the software.
+- Redistribute modified versions of the software.
+- Represent the software as their own product.
+- Remove proprietary copyright or ownership notices.
+- Reverse engineer or decompile proprietary components of the software.
+
+Third-party components remain subject to their respective licenses.
+
+4. USER-GENERATED CODE
+
+This license does not claim ownership of original application code created by users while using Blazor Studio.
+
+Any incorporated third-party components remain subject to their applicable licensing terms.
+
+5. PREVIEW SOFTWARE
+
+The software is provided as an early development preview. Features may change, be removed, or become unavailable in future releases.
+
+Future versions may be distributed under different licensing or pricing arrangements.
+
+6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AUTHOR SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+8. TERMINATION
+
+Users may terminate this license by uninstalling the software and ceasing its use.
+
+For questions regarding licensing, contact the project maintainer through the official Blazor Studio community.
