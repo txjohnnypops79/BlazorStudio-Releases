@@ -82,28 +82,6 @@ Preview your application during development.
 
 ![Property Editor](screenshots/05-properties.png)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/01-designer.png" width="100%" />
-      <b>Visual Designer</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/02-code-editor.png" width="100%" />
-      <b>Code Editor</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/03-live-preview.png" width="100%" />
-      <b>Live Preview</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/04-project-creation.png" width="100%" />
-      <b>Project Creation</b>
-    </td>
-  </tr>
-</table>
 
 ## Documentation
 
